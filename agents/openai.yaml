@@ -1,0 +1,5 @@
+
+display_name: "Pinterest Account Creator"
+short_description: "Automates creating a Pinterest account."
+default_prompt: "Create a new Pinterest account using the provided email."
+
